@@ -4,11 +4,11 @@
 
 # Hi, I'm Dhravya Shetty 👋
 
-🎓 **B.E. Computer Science & Engineering** — Dayananda Sagar College of Engineering &nbsp;|&nbsp; **CGPA: 9.49**
+🎓 **B.E. Computer Science & Engineering** 
 
 💡 I build **AI-powered systems and scalable web applications** — combining static analysis, LLM engineering, and modern full-stack architectures to solve real-world problems.
 
-🌱 Currently exploring **RAG Systems · LLM Engineering · Cybersecurity · Full-Stack Dev**
+🌱 Currently exploring **RAG Systems · LLM Engineering  · Full-Stack Dev**
 
 </div>
 
@@ -36,8 +36,8 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
 
 </div>
 
@@ -61,9 +61,9 @@
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 
 </div>
 
@@ -90,7 +90,7 @@
 [![Email](https://img.shields.io/badge/Email-dhravyashetty285%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhravyashetty285@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Dhravya285-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhravya285)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhravya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhravya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://dhravyashetty.vercel.app)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dhravya285&color=58A6FF&style=for-the-badge)
 
