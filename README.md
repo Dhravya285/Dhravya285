@@ -89,7 +89,7 @@
 
 [![Email](https://img.shields.io/badge/Email-dhravyashetty285%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhravyashetty285@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Dhravya285-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhravya285)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhravya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhravya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhravya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhravya-shetty-407559325/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://dhravyashetty.vercel.app)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dhravya285&color=58A6FF&style=for-the-badge)
